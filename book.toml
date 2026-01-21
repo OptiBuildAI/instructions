@@ -1,0 +1,4 @@
+[book]
+title = "Instructions"
+authors = ["copilot-swe-agent[bot]"]
+language = "en"
