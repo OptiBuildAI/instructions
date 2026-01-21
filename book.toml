@@ -1,3 +1,5 @@
 [book]
 title = "Instruction Manual"
 language = "en"
+
+[preprocessor.embedify]
