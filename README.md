@@ -1,2 +1,2 @@
 # instructions
-Go to https://mujo.github.io/instructions
+Go to https://thebutlah.github.io/instructions
