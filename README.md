@@ -2,7 +2,7 @@
 
 ## How to view the website
 
-Go to [thebutlah.github.io/instructions](https://thebutlah.github.io/instructions).
+Go to [thebutlah.github.io/instructions](https://optibuildai.github.io/instructions).
 
 ## How to edit the website
 
